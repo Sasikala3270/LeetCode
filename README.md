@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sasikala3270/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Sasikala3270/LeetCode/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -45,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
