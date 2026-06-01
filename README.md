@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sasikala3270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Sasikala3270/LeetCode/tree/master/0739-daily-temperatures) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sasikala3270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
