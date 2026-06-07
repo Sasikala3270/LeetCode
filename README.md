@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sasikala3270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Sasikala3270/LeetCode/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/Sasikala3270/LeetCode/tree/master/0739-daily-temperatures) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sasikala3270/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Sasikala3270/LeetCode/tree/master/0506-relative-ranks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sasikala3270/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Sasikala3270/LeetCode/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
