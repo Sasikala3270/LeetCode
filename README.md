@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sasikala3270/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sasikala3270/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sasikala3270/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Sasikala3270/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/Sasikala3270/LeetCode/tree/master/0739-daily-temperatures) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sasikala3270/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sasikala3270/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sasikala3270/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sasikala3270/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Sasikala3270/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sasikala3270/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0611-valid-triangle-number](https://github.com/Sasikala3270/LeetCode/tree/master/0611-valid-triangle-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sasikala3270/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Tree
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Sasikala3270/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sasikala3270/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sasikala3270/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sasikala3270/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sasikala3270/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0611-valid-triangle-number](https://github.com/Sasikala3270/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sasikala3270/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sasikala3270/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
