@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Sasikala3270/LeetCode/tree/master/0089-gray-code) |
+| [0326-power-of-three](https://github.com/Sasikala3270/LeetCode/tree/master/0326-power-of-three) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sasikala3270/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Sasikala3270/LeetCode/tree/master/0089-gray-code) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Sasikala3270/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
