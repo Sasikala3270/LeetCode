@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Sasikala3270/LeetCode/tree/master/0089-gray-code) |
 | [0326-power-of-three](https://github.com/Sasikala3270/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Sasikala3270/LeetCode/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sasikala3270/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sasikala3270/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Sasikala3270/LeetCode/tree/master/0089-gray-code) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sasikala3270/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
