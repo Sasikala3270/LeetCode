@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sasikala3270/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Sasikala3270/LeetCode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasikala3270/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sasikala3270/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sasikala3270/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sasikala3270/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sasikala3270/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sasikala3270/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sasikala3270/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1189-maximum-number-of-balloons](https://github.com/Sasikala3270/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sasikala3270/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sasikala3270/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sasikala3270/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Sasikala3270/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sasikala3270/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
