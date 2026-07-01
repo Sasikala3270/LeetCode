@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sasikala3270/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sasikala3270/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Sasikala3270/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sasikala3270/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sasikala3270/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sasikala3270/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Sasikala3270/LeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Sasikala3270/LeetCode/tree/master/0621-task-scheduler) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sasikala3270/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/Sasikala3270/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sasikala3270/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sasikala3270/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sasikala3270/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Tree
@@ -261,8 +264,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Sasikala3270/LeetCode/tree/master/0463-island-perimeter) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sasikala3270/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Sasikala3270/LeetCode/tree/master/0463-island-perimeter) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sasikala3270/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sasikala3270/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
