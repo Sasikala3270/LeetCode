@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sasikala3270/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sasikala3270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Sasikala3270/LeetCode/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Sasikala3270/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Sasikala3270/LeetCode/tree/master/0463-island-perimeter) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sasikala3270/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sasikala3270/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sasikala3270/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sasikala3270/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -78,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sasikala3270/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sasikala3270/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Sasikala3270/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sasikala3270/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sasikala3270/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sasikala3270/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Sasikala3270/LeetCode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sasikala3270/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sasikala3270/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sasikala3270/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sasikala3270/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Sasikala3270/LeetCode/tree/master/0621-task-scheduler) |
